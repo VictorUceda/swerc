@@ -1,0 +1,4 @@
+swerc
+=====
+
+Algoritmos swerc
